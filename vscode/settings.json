@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "Inziu Iosevka SC",
+	"editor.fontSize": 16,
+    "files.eol": "\n",
+    "markdown.styles": ["http://127.0.0.1:51004/public/github.css"],
+    "javascript.validate.enable": false,
+    "go.buildOnSave": false,
+    "go.formatOnSave": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "beautify.onSave": false
+}
